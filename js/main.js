@@ -110,17 +110,18 @@ function commaScore(val){
     return val;
   }
 
+document.addEventListener("deviceready", onDeviceReady, false);
+function onDeviceReady()
+{
+	if($(window).width()>=768){
+		screen.lockOrientation('landscape');
+	}
+	else{
+		screen.lockOrientation('portrait');
+	}
+}
 
 $(document).ready(function(){
-
-	if(screen.lockOrientation){
-		if($(window).width()>=768){
-			screen.lockOrientation('landscape');
-		}
-		else{
-			screen.lockOrientation('portrait');
-		}
-	}
 
 	//zendesk if online
 	zE(function() {
