@@ -563,8 +563,7 @@ $(document).ready(function(){
 	});
 
 	//difficulty buttons
-	$('.btn-difficulty:not(.disabledDifficulty)').click(function(){
-		
+	$('body').on('click','.btn-difficulty:not(.disabledDifficulty)',function(){		
 		//set button highlight
 		$('.btn-difficulty').removeClass('setDifficulty');
 		$(this).addClass('setDifficulty');
