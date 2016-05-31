@@ -130,9 +130,9 @@ $(document).ready(function(){
 	});
 
 	//disclaimer when new
-	if(!localStorage.newUser){
+	if(!localStorage.newRatingUser){
 		$('#disclaimer').modal();
-		localStorage.setItem('newUser','true');
+		localStorage.setItem('newRatingUser','true');
 	}
 	else{
 		
