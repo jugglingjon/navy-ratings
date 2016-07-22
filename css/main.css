@@ -298,6 +298,17 @@ h3 {
   margin-top: -7px;
   left: 50%;
 }
+@media screen and (min-width: 767px) {
+  .question .question-box .box-content .options.difficulty1 {
+    padding-left: 200px;
+  }
+  .question .question-box .box-content .options.difficulty2 {
+    padding-left: 100px;
+  }
+  .question .question-box .box-content .options.difficulty3 {
+    padding-left: 0px;
+  }
+}
 #dial {
   display: none;
 }

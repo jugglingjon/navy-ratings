@@ -50,10 +50,12 @@ function setDifficulty(dif, dmax){
 	$('.btn-difficulty[data-set-difficulty="'+maxDifficulty+'"]').nextAll().addClass('disabledDifficulty');
 
 
-	if($(window).width()>=768){
-		var optionPadding=(3-difficulty)*100;
-		$('.question .question-box .box-content .options').css('padding-left',optionPadding+'px');
-	}
+	// if($(window).width()>=768){
+	// 	var optionPadding=(3-difficulty)*100;
+	// 	$('.question .question-box .box-content .options').css('padding-left',optionPadding+'px');
+	// }
+
+	$('.question .question-box .box-content .options').removeClass('difficulty1 difficulty2 difficulty3').addClass('difficulty'+difficulty);
 
 	//define subset of ranks and score multiplier based on difficulty setting
 	scoreMultiplier=dif;
