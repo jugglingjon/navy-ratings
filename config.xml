@@ -44,6 +44,7 @@
 
 
     <gap:splash src="splash.png" />
+    <icon src="icon.png" />
 
     <platform name="ios">
                
