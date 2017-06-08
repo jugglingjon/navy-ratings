@@ -2617,6 +2617,174 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/res\/icons\/android\/icon-144-xxhdpi.png": {
+		"ft": 32768,
+		"iS": 10441,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-144-xxhdpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/android\/icon-192-xxxhdpi.png": {
+		"ft": 32768,
+		"iS": 14725,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-192-xxxhdpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/android\/icon-36-ldpi.png": {
+		"ft": 32768,
+		"iS": 1924,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-36-ldpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/android\/icon-48-mdpi.png": {
+		"ft": 32768,
+		"iS": 2741,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-48-mdpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/android\/icon-72-hdpi.png": {
+		"ft": 32768,
+		"iS": 4612,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-72-hdpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/android\/icon-96-xhdpi.png": {
+		"ft": 32768,
+		"iS": 6426,
+		"oA": 0,
+		"oAP": "\/res\/icons\/android\/icon-96-xhdpi.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-2x.png": {
+		"ft": 32768,
+		"iS": 7832,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-40-2x.png": {
+		"ft": 32768,
+		"iS": 5126,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-40-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-40.png": {
+		"ft": 32768,
+		"iS": 2217,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-40.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-50-2x.png": {
+		"ft": 32768,
+		"iS": 6763,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-50-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-50.png": {
+		"ft": 32768,
+		"iS": 2906,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-50.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-60-2x.png": {
+		"ft": 32768,
+		"iS": 8372,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-60-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-60-3x.png": {
+		"ft": 32768,
+		"iS": 13524,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-60-3x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-60.png": {
+		"ft": 32768,
+		"iS": 3666,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-60.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-72-2x.png": {
+		"ft": 32768,
+		"iS": 10441,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-72-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-72.png": {
+		"ft": 32768,
+		"iS": 4612,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-72.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-76-2x.png": {
+		"ft": 32768,
+		"iS": 11080,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-76-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-76.png": {
+		"ft": 32768,
+		"iS": 4851,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-76.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-small-2x.png": {
+		"ft": 32768,
+		"iS": 3463,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-small-2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon-small.png": {
+		"ft": 32768,
+		"iS": 1517,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/res\/icons\/ios\/icon.png": {
+		"ft": 32768,
+		"iS": 3404,
+		"oA": 0,
+		"oAP": "\/res\/icons\/ios\/icon.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/res\/screens\/android\/screen-hdpi-landscape.png": {
 		"ft": 32768,
 		"iS": 1301,
